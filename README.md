@@ -332,9 +332,7 @@ AuthProvider({required this.signInUseCase, required this.signUpUseCase});
 ```
 
 ### Recommended DI Solutions
-- **Provider package** for simple dependency injection
-- **get_it** for service location
-- **Riverpod** for advanced state management and DI
+- **Riverpod** for state management and dependency injection
 
 ## 📈 Scalability Patterns
 
